@@ -22,6 +22,5 @@ The datasets used in this study are publicly available:
 5. MODIS-derived velocity and strain-rate composites: [Alley, Klinger, et al. (2021)](https://www.usap-dc.org/view/dataset/601478)
 6. Sentinel-1 monthly flow velocities: [Banerjee et al. (2025c)](https://www.usap-dc.org/view/dataset/601914)
 7. AMIGOS GPS datasets: [Truffer et al. (2025)](https://www.usap-dc.org/view/dataset/601925)
-
- 
+   
 ![Figure 7](https://github.com/user-attachments/assets/a2a3c012-e346-4c2d-9618-0f60b8d489e3)
