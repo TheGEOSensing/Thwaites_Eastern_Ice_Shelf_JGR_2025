@@ -24,3 +24,5 @@ The datasets used in this study are publicly available:
 7. AMIGOS GPS datasets: [Truffer et al. (2025)](https://www.usap-dc.org/view/dataset/601925)
    
 ![Figure 7](https://github.com/user-attachments/assets/a2a3c012-e346-4c2d-9618-0f60b8d489e3)
+
+![Figure 8](https://github.com/user-attachments/assets/70170a8f-2895-4a1a-a1c8-b7804c7ef611)
